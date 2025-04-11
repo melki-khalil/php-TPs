@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+form{
+    margin: 2rem;
+    padding: 2rem;
+    align-items: center;
+    
+}
+
+
+form input[type="text"] {
+    margin-bottom: 25px;
+    border:none;
+    border-bottom:2px solid rgb(184, 123, 184) ;
+}
+form input[type="text"]:focus{
+    border: none;
+}
